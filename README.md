@@ -1,2 +1,1 @@
-# Docs
-Developer Docs and Pentesters.
+# **Developer Docs and Pentesters.**
